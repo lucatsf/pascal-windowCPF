@@ -1,3 +1,13 @@
-# generator-CPF
-programa em pascal que gera um cadastro de pessoa física (CPF) aleatório 
-o numero pode ser existente ou algum ainda inativo pois o numero que realmente importa é os dois ultimos digitos, que são o resultado de uma multiplicação e soma contendo algumas constantes e variaveis.
+# Generator CPF
+
+Program in pascal that generates a random individual registration number (CPF)
+the number can be existing or some still inactive because the number that really matters is the last two digits, which are the result of a multiplication and addition containing some constants and variables.
+
+
+## 🛠️ Stack
+
+- [Pascal](https://en.wikipedia.org/wiki/Pascal_(unit)) - The pascal (symbol: Pa) is the unit of pressure in the International System of Units (SI)
+
+
+---
+⌨️ with ❤️ by [Lucatsf](https://gist.github.com/lucatsf) 😊
